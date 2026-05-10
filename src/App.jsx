@@ -150,7 +150,7 @@ function App() {
             <div className="flex flex-col gap-8">
               <span className="vr-chip inline-flex w-fit items-center gap-2 rounded-full border border-emerald-400/40 bg-emerald-400/10 px-4 py-1 text-xs font-semibold uppercase tracking-[0.2em] text-emerald-300">
                 <Compass className="h-4 w-4" />
-                Engineering Componentt
+                Engineering Component
               </span>
               <h1 className="max-w-4xl text-3xl font-bold leading-tight text-white sm:text-5xl lg:text-6xl">
                 Gamified VR Educational Platform for STEM
